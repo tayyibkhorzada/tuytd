@@ -1,0 +1,13 @@
+    /*
+
+<script src="style.css">
+    let link='D:\ddl\html-color-codes-color-tutorials-hero.jpg';
+let lll='https://th.bing.com/th?id=ORMS.381697f67ea58229fa9f5993b41c8fd5&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0';
+
+let btn = document.getElementById('fgh');
+btn.addEventListener('click',()=>{
+    console.log('hhjg');
+    location.href=lll;
+
+</script>
+})/*
